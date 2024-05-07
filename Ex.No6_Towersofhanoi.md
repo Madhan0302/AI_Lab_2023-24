@@ -29,6 +29,8 @@ move(N,X,Y,Z) :-
     move(M,Z,Y,X).
 
 ### Output:
+
+
 ![image](https://github.com/Madhan0302/AI_Lab_2023-24/assets/160517887/b1e5a15c-535d-4fdc-8298-f326f14951f7)
 
 
